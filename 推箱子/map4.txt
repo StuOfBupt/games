@@ -1,0 +1,12 @@
+00000aaaaaaa0
+00000a00a00a0
+00000a00bb0a0
+aaaaaa0ba00a0
+adddaaa0a00aa
+ad00a00b0a00a
+ad0000b0b0b0a
+ad00a00b0a00a
+adddaaa0a00aa
+aaaaaa0b000a0
+00000a0ca00a0
+00000aaaaaaa0
